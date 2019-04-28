@@ -10,7 +10,7 @@
 
 5. Run php artisan key:generate
 
-5. Create an empty database for our application. You can use Sequel Pro for e.g.
+5. Create an empty database for the application. You can use Sequel Pro for e.g.
 
 6. In the .env file, add database information (database name, username and password) to allow Laravel to connect to the database
 
