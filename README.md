@@ -4,7 +4,7 @@
 
 2. cd into the project
 
-3. Install dependencies composer install & npm install
+3. Install dependencies: composer install & npm install
 
 4. Create copy of the env file
 
