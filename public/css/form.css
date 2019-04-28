@@ -1,0 +1,9 @@
+
+    .Form {
+      padding: 60px 0;
+      max-width: 320px;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+    }
+  
