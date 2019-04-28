@@ -20,7 +20,7 @@ class CreateUserFormsTable extends Migration
             $table->string('emailaddress');
             $table->bigInteger('mobilenumber');
             $table->string('gender');
-            $table->date('dateofbirth');
+            $table->string('dateofbirth');
             $table->text('comments');
             $table->timestamps();
         });
